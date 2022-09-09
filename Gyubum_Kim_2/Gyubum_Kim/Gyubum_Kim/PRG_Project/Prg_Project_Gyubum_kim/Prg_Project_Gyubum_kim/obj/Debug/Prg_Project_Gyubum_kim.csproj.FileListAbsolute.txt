@@ -1,0 +1,48 @@
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1.mdf
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1_log.ldf
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe.config
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.pdb
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Form1.resources
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUser.resources
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Properties.Resources.resources
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.GenerateResource.cache
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.pdb
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUserEdit.resources
+C:\Users\2\Desktop\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmReport.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1.mdf
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1_log.ldf
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe.config
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.pdb
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Form1.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmReport.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUser.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUserEdit.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Properties.Resources.resources
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.GenerateResource.cache
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.pdb
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1.mdf
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Database1_log.ldf
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe.config
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\bin\Debug\Prg_Project_Gyubum_kim.pdb
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Form1.resources
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmReport.resources
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUser.resources
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.FrmUserEdit.resources
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.Properties.Resources.resources
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.GenerateResource.cache
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.exe
+C:\Users\2\Desktop\New folder\Gyubum_Kim\Gyubum_Kim\PRG_Project\Prg_Project_Gyubum_kim\Prg_Project_Gyubum_kim\obj\Debug\Prg_Project_Gyubum_kim.pdb
